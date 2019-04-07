@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartFest</string>
+
+    <array name="Dept">
+        <item>Electricity Board</item>
+        <item>Transport Board</item>
+        <item>Municipal Board</item>
+        <item>Election Board</item>
+    </array>
+</resources>

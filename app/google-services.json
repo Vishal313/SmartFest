@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "609769704936",
+    "firebase_url": "https://smartfest-1f1c7.firebaseio.com",
+    "project_id": "smartfest-1f1c7",
+    "storage_bucket": "smartfest-1f1c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609769704936:android:3a0e5a7d05496004",
+        "android_client_info": {
+          "package_name": "com.comp.smartfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609769704936-7hb7doclspvdo945bbk1lopp3p63b77v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.comp.smartfest",
+            "certificate_hash": "fee374641c080cf91392a7edc24a3ed1cfb5d0e8"
+          }
+        },
+        {
+          "client_id": "609769704936-f0v3tgbqrsbdo8up8ovuaikj6c83qeh9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAF7m6BqQSM8NsMv9fCgXb-qCI47yWlgk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609769704936-f0v3tgbqrsbdo8up8ovuaikj6c83qeh9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
